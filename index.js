@@ -26,7 +26,7 @@ databaseOptions: {
 dataConfig:{ 
 tables: ["main", "cache"] } },
 host: "0.0.0.0",
-port: 2896,
+port: 19198,
 userConfig: [{
 username: "vishvaas",
 password: "123456",
